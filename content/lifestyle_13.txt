@@ -1,0 +1,45 @@
+Colorism in Modern Media
+Disclaimer: This article is talking about race and is generalizing skin tones for the basis of data collection.
+
+Toby Hodne and August Berrios
+
+May 24, 2023
+
+Within modern media, people of different skin colors are represented differently. A trend throughout the years is how narratives are created on the basis of someone’s skin color and ethnic background. This is known as colorism, which the Oxford Learner’s Dictionary defines as “the unfair treatment of people with darker skin, often among people of the same ethnic group.” 
+
+These narratives can create toxic and unfair notions about groups of people that can subconsciously promote racial inequality. 
+
+Scales are used by companies such as Google to enhance their machine-learning data. One example of this is the Monk Skin Tone Scale or the MST. The MST is a scale that aims to be more inclusive to a broader scale of skin colors. The MST scale is a spectrum that all media outlets should utilize to create a more inclusive environment. For example, the MST scale is used in identification databases, like police databases, and Google utilizes it to have better camera quality based on surrounding light compared to an individual’s skin tone. 
+
+The old scale—the Fitzpatrick scale—has a limited scale with 6 different tones: Type I through Type VI. This is seen by the emojis companies like Apple use for their devices. In contrast, the MST is open to ten skin colors, identified by a Monk 1-10 scale, which represents a wider range of shades within multiple color groups. As a result, this scale is slowly becoming the standard for inclusivity and representation throughout modern media and technology. Its use in correlation to data collection is pivotal because it allows data scientists to properly group a wide range of skin colors and their shades. the MST scale is used in identification databases, like police databases, and Google utilizes it to have better camera quality based on surrounding light compared to an individual’s skin tone.
+
+
+An image showing the contrasts between the Monk Skin Tone Scale and the Fitzgerald Skin Tone Scale.
+(Image by: Toby Hodne and August Berrios)
+“Time Magazine,” a  renowned media outlet, shows discrepancies in representation that have become more apparent in recent years. Meaning a shift between different tones on the Monk Scale has become increasingly observable. Moreover, applying the Monk Scale to the people who “Time Magazine” have identified, could spark a discussion about the ethics of leaving people unnamed. The importance of being named can be the pivotal factor in how someone is attributed to certain accomplishments or involvement in certain events. In this case, the MST scale is applied to “Time Magazine” to find these errors in inclusivity.
+
+Data was collected from the September 2021 issue of “Time Magazine” and divided up into numerical and categorical data based on the MST scale. First, images of named and unnamed people were divided up, then converted into numerics, based in relation to the skin tone of the individuals and the different tones of the MST—For the sake of consistency, all skin tones on the MST under Monk 5 are considered light skin tones, and all skin tones above Monk 5 are considered dark skin tones. 
+
+It was found that the values of named and unnamed individuals seemed to be identified at an equal amount, however, there is a lack of representation for individuals of darker skin color. “Time Magazine” has not done justice to a wider range of people of color by choosing a racially biased form of attribution.
+
+Lighter skin tones have been represented on different scales, such as people ranging from an average person to the CEO of a big tech company. But for people of a darker skin tone, “Time Magazine” has only chosen to promote those of higher privilege. This should be viewed as unethical because “Time Magazine” has not been depicting the diversity within the communities of people of color.
+
+
+Skin tone visualized by percent of named and unnamed people. (Graph by August Berrios and Toby Hodne)
+On a categorical base, a facade is created to make it seem like the answer to equality is more rudimentary than it truly is. Face level interpretation reveals that lighter tones are more often to be named, rather than darker ones. Now, another issue presents itself: the categories are condensed into four tones that make up multiple skin colors—which is a big reason why this form of data analysis almost downplays the issue of race representation.
+
+The creation of this chart allows researchers to see the upside in creating a numerical chart. Here the MST scale has been condensed into 4 tones with multiple tones going into one column, tone A representing the three lightest on the MST scale. The collection of the data can already be seen as subjective, which means that condensing it even more—as seen in the categorical chart—can impact the analysis of the data presented. 
+
+Although there is integrity within the research of data science, questions on ethics still arise; understanding the collection of individuals is subjective in itself. Even if the goal is to see how they are identified using their name, the picking of each subject represents possible biases. Furthermore, this specific subset of data is a collection from one magazine, so on the topic of ethics, it’s hard to try and represent other magazines or other forms of media. Although the data collection was pivotal in drawing conclusions about how people of darker skin color were only identified under strict guidelines, the use of computer learning does not fully account for the issues of this topic and its context. Groups, such as the Algorithmic Justice League, work to help further the accountability of artificial intelligence and raise awareness of this problem of colorism; they mix art and research to further AI development in the right direction.
+
+
+A column chart comparing different magazines’ inclusivity. (Graph by August Berrios and Toby Hodne)
+In continuation, multiple magazines, such as “Vogue Magazine,” “British GQ,” “Empire Magazine,” and “Vanity Fair.” Out of these select magazines together, “Vogue” tends to be the only magazine that has more individuals with lighter skin tones named than those with darker skin tones 
+
+Upon cross-analysis with students from the Data Science class at Huntington Beach High School (HBHS), Junior student Stone De Alba focused on the media’s representation of females and males of different races using Bloomberg Magazine. De Alba used the Monk Scale to analyze the September 2021 issue of “Bloomberg Magazine.” De Alba said, “People of darker complexion rarely showed up in the article, and they were mostly shown in the advertising when white people were in the article.” “Women as well only showed up in advertisements, these ads want to seem more diverse and accepting rather than the articles themselves.”
+
+Briggs Cunningham, an HBHS senior, aided De Alba in their analysis of “Bloomberg Magazine.” Cunningham said, “It’s interesting to see that rather than exploring the diversity within this country’s businesses, Bloomberg Magazine chooses to feature primarily white business owners and then goes out of their way to feature poor darker skinned Americans for story features.” This divide between articles, and their adverts displays two narratives of diversity. 
+
+“Time Magazine” chooses to represent different skin tones at different levels. Although the amount of named and unnamed individuals appear very similar, people with a lighter complexion were more likely to be represented as both an average individual or someone of high status. On the other hand, individuals of darker skin color were only represented at a level of high status, such as actors or CEOs. These are steps in the right direction, yet darker skin tones lack any diverse stories for those of the average citizen. As a whole, any publication should choose to equally represent all skin tones; everyone deserves to be put on the same pedestal. No one should have to worry that their hard work goes unnoticed due to the harsh colorism in media.
+
+Colorism is still prevalent in digital magazines, and finding an end to it is no easy task, but finding it and critiquing it may be small steps to finally putting the power back to marginalized people.
