@@ -1,0 +1,17 @@
+THE EVOLVING MEDICAL WORLD: THE PROMISE OF AI IN COMBATING DEMENTIA
+June 25, 2024
+By 133brian BRONZE, Richmond, Columbia
+
+Many seniors today unfortunately have dementia—it's one of the toughest challenges our healthcare system has yet to overcome. In fact, every 3 seconds, there is one person who develops dementia (Alzheimer's Disease International). As populations age and life expectancies rise, this disease becomes more and more prominent, robbing millions globally of their cognitive abilities, independence, and eventually, their entire lives. However, amidst this escalating crisis, artificial intelligence (AI) is beginning to emerge as a source of hope, possibly offering new innovative solutions to enhance diagnosis, further our understanding, and perhaps replace face-to-face interactions.
+
+
+One of the ways AI enhances diagnosis is by using machine learning to help spot early symptoms and predict early signs of dementia well before it’s developed. For example, one study at UC San Francisco (February 2024) found that they could predict Alzheimer’s disease up to seven years before symptoms appear. To do this, scientists from UCSF had AI analyze patients’ records using machine learning. Specifically, it was able to identify patterns in a large database to find possible distinguishing symptoms. The symptoms included “high cholesterol and, for women, the bone-weakening disease osteoporosis.” Overall, “This is a first step towards using AI on routine clinical data, not only to identify risk as early as possible, but also to understand the biology behind it,” said the study’s lead author, Alice Tang (UC San Francisco, 2024). In other words, while AI’s overall development is still in its early stages, it can still be used in unique ways to improve our healthcare system. 
+
+ 
+
+
+Another way AI can act as a ray of hope is through face-to-face interactions. It can emulate a human’s voice and personality (as seen with Google Assistant and Siri) to provide near-perfect responses in several scenarios. Still, these innovative features come at a cost: not feeling like you’re having a genuine conversation. Talking to a robot can feel artificial at times; even though it acts like it cares about your feelings, it just doesn’t feel right. Nonetheless, these AI assistants can still act as a temporary consolation device to alleviate seniors' worries or remind them of tasks they may have forgotten.
+
+ 
+
+Overall, the implementation of artificial intelligence in our healthcare system is still a new concept, and our healthcare system just isn’t prepared for it yet. Nevertheless, all this research is still an excellent start to a potential cure for dementia and the memory impaired. 

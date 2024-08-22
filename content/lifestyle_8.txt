@@ -1,0 +1,180 @@
+THE THEFT OF SLEEP—A CRITIQUE OF ALIENATION: HIGH SCHOOL STUDENTS STAYING UP LATE PLAYING WITH SMARTPHONES
+July 3, 2024
+By HannaHan20071229 PLATINUM, Xiamen, Other
+
+1.    Has the Smartphone Defeated Sleep?
+
+“Sleep is my ‘secret weapon.’ I sleep for 10 hours every night,” shared Gu Ailing, a Chinese team athlete at the Beijing Winter Olympics, in an interview (Beijing News, 2022). For contemporary high school students around Gu Ailing’s age, sleeping for 10 hours is undoubtedly a luxury. According to relevant data, it is evident that sleep deprivation and frequent drowsiness have become a global commonality (Gordon et al., 2017). This directly leads to the growth of fatigue and, in severe cases, can cause more serious physical damage (Barnes, 2012).
+
+Researchers, based on surveys, have found that staying up late playing on smartphones has become embedded in people’s daily routines as a form of digital leisure (Harmon & Duffy, 2022; Hughes & Burke, 2018). Specifically focusing on the high school student group, various phenomena indicate that they often feel sleepy and complain during the day but continue to delay sleep by playing on their phones late into the night. This raises the question: What magical power does stay up late playing on smartphones hold?
+
+Current academic research on sleep primarily focuses on the consequences of sleep deprivation and the factors affecting sleep quality (Aldhawyan et al., 2020). Among these, with the proliferation of smart devices, the impact of smartphone use on sleep has become a multidisciplinary focus, such as the light emitted by phones before bedtime and prolonged use disrupting the body’s circadian rhythm and reducing sleep quality (Tamura et al). Some scholars have also used time as a research angle. Scholar Chen Chen (2021), relying on the perspective of time sociology, believes that “staying up late” is a way to claim personal time. Jonathan Crary (2021:27) has stated that “sleep cannot be eliminated but can be disrupted and deprived.” So, who disrupts sleep? Who deprives it?
+
+2.    Living in Time Alienation
+
+“Alienation” is a key concept in diagnosing societal pathology and is a term widely accepted by contemporary scholars. Through examining related theories by Marx, Adorno, Merton, and others, Melvin Seeman (1975), from a social psychological perspective, classified alienation into six types: “powerlessness,” “meaninglessness,” “normlessness,” “cultural estrangement,” “self-estrangement,” and “social isolation.”
+
+In today’s society, the drawbacks individuals face in daily life have become increasingly apparent, prompting more scholars to shift the focus of alienation critique from how to liberate to the pursuit of a good life. Rahel Jaeggi (2014: 6-31) first pointed out that previous notions of “alienation” serve as a diagnosis for contemporary society, described as a “relation of relationlessness.” Its symptoms include a sense of powerlessness and lack of freedom, as well as impoverished relationships with oneself and the world. Under alienation, individuals cannot effectively experience themselves, and the world becomes unreal. However, while Jaeggi aligned critical theory with the real-life experiences of the masses, she did not address why modern society in particular causes alienation; Hartmut Rosa took on this task.
+
+Building on Jaeggi’s diagnosis of alienation, Rosa, from the perspective of time sociology, pointed out the issues of social competition, eternal promises, and the acceleration cycles that lead to the acceleration syndrome in contemporary society (Rosa, 2018: 29-41). He further explored five new types of alienation from a value dimension. Time alienation, as one of them, refers to an experience of a downgraded and short-memory time mode in an accelerated society, resulting in a state of ineffective living with rich moments of experience but poor life experience (Rosa, 2018: 133-139).
+
+Time alienation, therefore, can be discussed in several points: First, the alien domination of time, where an individual’s self-time transforms into externally regulated time, causing a sense of loss of control over time; second, the degradation of the meaning of time experience, where an individual’s self-time falls into an accelerated alienation state, leading to a sense of powerlessness over time. These two aspects are not independent but can be bound in a cause-and-effect logic.
+
+Returning to the question of this paper, does staying up late playing on smartphones, as a specific time period, reflect the issue of time alienation? This paper attempts to explore the behavioral motivations behind this habit.
+
+3.    Research Methodology
+
+From the end of May to June this year, I conducted field research on the topic of “sleep” at Shenzhen Huitong School. As a student of Huitong myself, I have been “observing” and am quite familiar with the school’s regulations, students’ daily routines, everyday behavior, and private conversations over the past few years. Based on my preliminary observations, I invited 10 classmates as research subjects. I referenced the Time Diary Analysis Method and asked each person to record their related behaviors (including wake-up time, departure time, arrival home time, bedtime, and actual sleep time) from June 1 to June 14. After the research ended, I took the mode as the regular time point for each behavior to determine individuals’ daily time allocation.
+
+After the survey ended, I drafted a corresponding interview outline based on my school experience and the time diaries. I conducted semi-structured interviews with the 10 classmates. The interview content included their views on staying up late, reasons for staying up late playing on phones, methods to avoid drowsiness during school, and their daily routine after returning home.
+
+According to the survey data, all research subjects had the habit of playing on their phones before bed and all fell asleep after midnight. The earliest sleep time was for J, at 00:00, and the latest was for H, at 2:30 AM. After the interview content approached saturation, I converted the relevant materials from audio to text. Information about the interviewees is shown in Table 1.
+
+Table 1: Specific Information of Interviewees
+
+No.
+Initials
+Gender
+Grade
+Wake-up Time
+Departure Time
+Home Arrival Time
+Bedtime
+Sleep Time
+1
+A
+M
+11th
+06:20
+07:40
+18:00
+00:20
+01:00
+2
+B
+F
+10th
+06:40
+07:30
+17:20
+00:30
+01:30
+3
+C
+M
+10th
+06:40
+07:35
+17:55
+23:30
+00:45
+4
+D
+F
+12th
+06:50
+07:45
+17:30
+00:00
+01:00
+5
+E
+M
+10th
+07:30
+07:55
+16:50
+00:45
+01:45
+6
+F
+F
+11th
+06:50
+07:30
+18:00
+00:10
+01:15
+7
+G
+M
+12th
+07:00
+07:50
+17:30
+00:30
+01:00
+8
+H
+F
+10th
+07:40
+08:05
+16:40
+01:30
+02:30
+9
+I
+M
+10th
+07:30
+08:00
+17:00
+00:30
+02:00
+10
+J
+F
+9th
+07:00
+07:30
+17:45
+23:00
+00:00
+ 
+
+4.    Bedtime Phone Usage: Redemption or Alienation?
+
+According to statistics, the study found that the sleep duration of the 10 high school students ranges from 5.17 hours to 7 hours, with an average of 5.725 hours. According to scientific standards for sleep (6-8 hours), only one person meets the criteria. So, why do these high schoolers still choose to stay up late playing on their phones, despite being in a state of extreme sleep deprivation at an age when sleep is most crucial for growth and rest?
+
+Sleep is often undervalued, as some philosophers have provided answers. Given the priority of consciousness and will, sleep does not contribute to the exercise of reason or learning, thus it lacks certain value (Clarey, 2021:19). Compared to sleep, people place high expectations on leisure because only with sufficient leisure time can they fully pursue all their interests and potentials, which is more liberating. People prefer to stay awake as much as possible, investing all their sleep time in leisure and entertainment. Staying up late playing on smartphones is evidently a prominent example of this tendency.
+
+4.1 Phone Time as a “Soul Ferry”
+
+Staying up late playing on the phone is a way for people to compensate for their leisure time. To ensure a daily amount of leisure time, people choose to fill the leisure gap by playing on their phones. How late they stay up varies from person to person. Why is the temptation of staying up so great that people are willing to disrupt their biological regulation and pay the price of feeling mentally sluggish the next day?
+
+4.1.1 “Only after turning off the lights do I have time for spiritual healing”
+
+In the context of an accelerating society, high school students are exposed to social media and electronic devices at an early age and can easily become addicted, directly causing excessive fatigue and constant busyness. Faced with high-intensity pressure and a fast-paced lifestyle, students need some time to vent and heal their inner learning wounds. Extra study, extracurricular classes, competition coaching, the next assignment deadline... they are almost constantly busy. It is not until late at night, after everything has been dealt with, that they have time for their own healing. At this time, faced with an exhausted body and an overworked brain, wandering through the phone world becomes their most cost-effective and effortless way of leisure: “I don't have any time for myself during the day, so I feel like I might only have time for spiritual healing at night after I turn off the lights.” (H) “Even though I don't know what I'm scrolling through, I still want to play on my phone, it's just a rebellious mentality, just staying up late.” (B) It is evident that to release pressure, keep up with the pace of society, and regain a sense of time control, people entrust the task of purifying their soul to their phones, trying to find spiritual self-healing.
+
+4.1.2 “Late into the night, I just want to be alone quietly.”
+
+Permanently online, permanently connected has gradually become a portrayal of mediatized existence. To avoid disconnecting from the world and prevent disconnection from becoming a constant task, however, this has been achieved by real-time call reminders and group project urgencies; even home time, is filled with these disturbances. Clearly, modern society is replete with concerns about connection overload (LaRose et al., 2014), and when private time is exposed to public time, people will gradually lose the pure solitude. More contradictory is that in private space, people hope to disconnect, but also want to remain online. And staying up late to play on the phone meets this desire.
+
+In traditional consciousness, late night is reserved for sleep, and people always tacitly agree not to disturb each other, which provides an opportunity for online availability and temporary disconnection. At this time, private time is no longer public, and the recreational role of the phone can be maximized. Even if there are people who do not know the current situation and send messages, people can pretend to be asleep and not respond: “Sometimes I just want to be quiet alone, only lying in bed can I play on my phone without distractions” (E); “Sometimes I tell others that I am going to sleep, stop chatting, not necessarily really sleeping, I just want to browse my phone alone and then sleep” (F). Late night, as an exclusive period for configuring sleep, naturally has a protective film that shields connections to satisfy the immersive need for solitude.
+
+4.1.3 “Finding the Self in the Phone”
+
+Rita Felski once likened the contemporary city to a chaotic maze full of infinite possibilities, but in the daily journey of life, people often choose familiar paths to manage space and time (Felski, 2000:91-92). In her view, people’s daily lives have already been automatically delineated as a kind of prison, with daily routines becoming a monotonous epitome of back-and-forth travel. When yesterday, today, and tomorrow replay repeatedly, daily life becomes no different from a replayable performance; as the stories of tomorrow dissolve into the predictability of time, anticipation naturally loses its meaning.
+
+To break free from the boredom of time, interviewees have tried to break free from these boxed-in daily routines, just to seize the possibility and unpredictability of time. For example, “In ninth grade, I used to try to invite classmates to play badminton after school.” (C) However, the exploration of possibilities is ultimately occasional, and they unanimously agree that these attempts are futile, as additional changes will only result in a more tired body and less leisure time. In comparison, staying up late to play on the phone is the most cost-effective way to pass the time. With a phone, people can consume, play games, and perform other operations in a short time without physical exertion, experiencing a fantasy world. This is a comfort they find in their monotonous daily lives: “At night, I browse Taobao, watch Douyin, and sometimes I finish watching a whole series before sleeping... During this time, I truly feel a sense of control over my time, which feels very exhilarating” (J). Smartphone time before sleep indeed revitalizes their timeline, allowing people to regain long-lost time enrichment.
+
+As such, students’ daily lives have long been filled with various uncomfortable alienated times, as if their days are shrouded in the gloom of no time. As a result, people lose their sense of life control and the value of time, living in a deeply alienated state detached from reality. To reclaim the theme of time, people choose to actively explore the late night as a pure land. At this time, the phone becomes a soul ferryman, leading people to the other side of healing, tranquility, and vitality. In the eyes of people, leisure is more important than sleep. Under the circumstances where leisure time is increasingly squeezed, staying up late to play on the phone undoubtedly becomes a gift of redemption for people. However, is it possible that this period of time still remains alienated and has not been eliminated? The answer is a definite yes.
+
+4.2 Alienation Syndrome: Smartphone Time as Self-Blinding
+
+When discussing how to achieve a better life, Jaeggi proposed ways to eliminate alienation.
+
+Firstly, based on a practical perspective, Jaeggi introduced the concept of “appropriation,” which is a way of establishing relationships with oneself and the world, allowing oneself and the world to become practices that are dominated; through “appropriation,” people can solve problems, enabling life forms to avoid alienation (Jaeggi, 2014:44-48). Applied to this context, staying up late to play on the phone is a spiritual compensation for the lack of leisure time; it is a means to rebuild the relationship with time and attempt to address issues of time control alienation. However, the method of appropriation does not fundamentally solve alienation; it is only a temporary spiritual analgesic used to alleviate various negative perceptions. Therefore, staying up late to play on the phone cannot be considered a form of appropriation.
+
+From the above observations, rather than viewing staying up late to play on the phone as a means of self-redemption, it is better seen as a complication resulting from the lack of leisure time and the alienation of daily time. This period of time remains alienated, though it is not easily noticeable; its form is as follows:
+
+Firstly, in the past, leisure time was given, and people only needed to consider how to utilize it; nowadays, within the larger environment, people have shifted from contemplating how to use leisure to how to obtain it, moving from advanced self-development to primary psychological healing. Clearly, there has been a discontinuous downgrade in the gradient of human leisure development, which also reflects the alienation of time.
+
+Secondly, due to the limited timeframe of staying up late to play on the phone, in order to experience more electronic projects within a short period, people often compress the duration of events to seek the pleasure of self-control: “If it’s watching dramas or variety shows, I always use double speed to try to watch more episodes” (A). When the late-night smartphone session is filled with other activities, the acceleration of time and the fleeting nature of leisure become more apparent.
+
+Thirdly, as seen from the previous discussion, people perceive staying up late to play on the phone as a form of self-protection, a safety valve to slow down conflicts (Lian Si, Tang Panfei, 2018). People can transfer and vent various frustrations suppressed during the day, achieving the effect of appropriate stress reduction and emotional regulation. However, the result of this release is that individuals become the targets of retaliation against themselves, consuming their own time and energy, and paying the price with their bodies: “There is a saying online, ‘revenge staying up late.’ If there’s no time during the day, then I must make up for it at night. I also know the harm caused by staying up late, but I can’t help staying up” (B). Therefore, staying up late to play on the phone is essentially a retaliatory staying up late by transferring grievances, as individuals cannot directly resist the sources of stress and can only find solace through retaliating against themselves.
+
+5.    Conclusion
+
+As a reflection of the heavy oppression of contemporary daily life and the deep alienation of time, staying up late playing with smartphones showcases people’s longing for rest and desire for control over their time. When staying up late playing with smartphones becomes routine, and leisure time becomes a pursuit, it reflects the heavy pressures of life, the fast pace of existence, and the void of life itself. To regain autonomy over our time and pursue a truly beautiful life, we must amplify and reflect on daily life, and view it through a critical lens.

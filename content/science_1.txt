@@ -1,0 +1,19 @@
+Pinterest Launches New Body Type Search Technology Using AI
+
+This week, Pinterest launched what it calls a “first-of-its-kind” body type ranges search feature, a tool which gives users the ability to self-select the types of bodies which appear in search results. For now, the feature is limited to fashion and wedding ideas, per a press release from Pinterest. Still, given the billions of images on the platform, this is a major step in search ability for the inspiration-centric social network. The new body type feature joins search tools like their skin tone and hair texture filters, designed to include more users and communities as they move about the platform.
+
+According to reporting from Axios when the feature was first announced in September of last year, Pinterest began this effort by manually reviewing thousands of images, from there using deep neural networks to inform characteristics for all images on the platform.
+
+Shot of a young woman having coffee and using a smartphone on the sofa at home
+Pinterest Just Banned All Weight-Loss Advertisements
+Here's what types of ads will no longer be allowed on the platform, and the type of content that still gets a pass.
+Pinterest’s Inclusive Product Team also collaborated with internal and external partners to further develop this technology, using shape, sizes, and form to identify body types in images. Pinterest partnered with the National Association to Advance Fat Acceptance (NAAFA), model and size advocate Tess Holliday, and other creators to consult on the plus size community’s needs. “At Pinterest, we believe that inspiration begins with inclusion. That’s why we continue to develop inclusive product experiences that make it easier to find the best ideas that feel made for you,” Sabrina Ellis, Chief Product Officer at Pinterest said in a statement.
+
+That this feature was conceived of at all, let alone developed and shipped to the public is notable, particularly for a social media platform. While research has yet to identify causal links, research published by the American Psychological Association in 2023 shows striking correlation between social media use and negative self-image.
+
+"We know that social media spaces can be especially hard for larger people," NAAFA chair Tigress Osborn said in a statement. "Working with Pinterest to ensure that larger bodies are shown in search results signals to users of all sizes that everybody and every body deserves to be included and inspired. We hope our work with Pinterest will inspire other companies to join the movement as well."
+
+It’s not without its return benefits for Pinterest and its dominance as an e-commerce site, where “almost half a billion people [are] coming to the platform to search, save and shop every month.” The body type search feature was launched in tandem with “curated shoppable content” featuring brands like Eloquii, Ganni, Mara Hoffman, Osei Duro and more.
+
+“We have already seen that people who use body type ranges had a 66% higher engagement rate per session on Pinterest than those who haven’t used the tool,” the Pinterest CTO shared in the feature’s launch announcement. The feature is set to roll out to international markets on an ongoing basis, and will include men’s fashion later this year.
+
